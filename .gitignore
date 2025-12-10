@@ -1,0 +1,15 @@
+# Java compiled files
+*.class
+*.jar
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
